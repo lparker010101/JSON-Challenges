@@ -10,9 +10,7 @@ namespace BonusChallenge_JSON
     {
         public string OrderId { get; set; }
         public Customer Customer { get; set; }
-
         public ShippingAddress ShippingAddress { get; set; }
-
         public List<LineItems> LineItems { get; set; }
         public DateTime PurchaseDate { get; set; }
     }
