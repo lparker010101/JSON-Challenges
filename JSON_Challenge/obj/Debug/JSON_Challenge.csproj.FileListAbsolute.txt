@@ -1,0 +1,10 @@
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\bin\Debug\JSON_Challenge.exe.config
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\bin\Debug\JSON_Challenge.exe
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\bin\Debug\JSON_Challenge.pdb
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\obj\Debug\JSON_Challenge.csprojAssemblyReference.cache
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\obj\Debug\JSON_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\obj\Debug\JSON_Challenge.csproj.CopyComplete
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\obj\Debug\JSON_Challenge.exe
+C:\Users\lalpa\source\repos\JSON_Challenge\JSON_Challenge\obj\Debug\JSON_Challenge.pdb
